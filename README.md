@@ -1,5 +1,7 @@
 # Consciousness Hypergraph Model (CHM)
 
+![Explicit 4-Dimensional Hyperedge](assets/A_4-Dimensional_Hyperedge.gif)
+
 > A process-based, non-representational model of consciousness — implemented as code.
 
 This repository contains a **runnable, exploratory implementation** of the **Consciousness Hypergraph Model (CHM)**.
